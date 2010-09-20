@@ -106,7 +106,8 @@ Sie vereinigt Piraten ohne Unterschied
 #* Die Wahl sollte im ersten Quartal eines Jahres stattfinden. 
 # Der Vorstand legt zur Hauptversammlung einen Tätigkeitsbericht in Textform vor. Dieser umfasst alle Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in Eigenverantwortung des Einzelnen erstellt werden. 
 # Die Führung der Stadtgeschäftsstelle wird durch den Stadtvorstand beauftragt und beaufsichtigt. 
-# Tritt der gesamte Stadtvorstand geschlossen zurück oder kann seinen Aufgaben nicht mehr nachkommen, so führt der Landesvorstand kommissarisch die Geschäfte bis eine von ihm einberufene außerordentliche Hauptversammlung schnellstmöglich stattgefunden und einen neuen Stadtvorstand gewählt hat. 
+# Tritt der gesamte Stadtvorstand geschlossen zurück oder kann seinen Aufgaben nicht mehr nachkommen, so führt der Landesvorstand kommissarisch die Geschäfte bis eine von ihm unverzüglich einberufene außerordentliche Hauptversammlung stattgefunden und einen neuen Stadtvorstand gewählt hat.
+# Treten mindestens 30% der gewählten Vorstandsmitglieder zurück, muss der verbleibende Vorstand unverzüglich eine reguläre Hauptversammlung einberufen, damit ein neuer Vorstand gewählt werden kann.
 
 == § 13 Parteiämter ==
 # Die nicht beruflich ausgeübten Funktionen und Tätigkeiten in der Piratenpartei Deutschland sind Ehrenämter. Eine Vergütung für ehrenamtliche Tätigkeit ist ausgeschlossen. 
