@@ -126,7 +126,7 @@ Sie vereinigt Piraten ohne Unterschied
 
 == § 17 Finanzordnung ==
 # Das Geschäftsjahr ist das Kalenderjahr. Kassenführung, Buchführung und Mitgliederdatei erfolgt möglichst papierlos nach den Regeln der ordentlichen Buchführung (die Dateien und Datenbanken sind allen Vorständen zur Kontrolle zugänglich zumachen). 
-# Der Schatzmeister und ein weiteres Vorstandsmitglied sind nur zusammen zeichnungsberechtigt. 
+# Der Schatzmeister ist alleine zeichnungsberechtigt.
 # Weiteres regelt die Satzung der Piratenpartei Deutschland. 
 # Auf jeder Hauptversammlung werden ein Kassenprüfer und ein Stellvertreter gewählt. Diese amtieren bis zur Neuwahl auf der nächsten Hauptversammlung. 
 
