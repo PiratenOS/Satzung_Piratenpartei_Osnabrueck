@@ -156,5 +156,86 @@ Sie vereinigt Piraten ohne Unterschied
 
 
 
+
+=Anhang=
+==Änderungen Hauptversammlung 23.09.2010==
+=== SÄA 12.1 ===
+
+'''Begründung:'''
+
+Neue Regelung, um den Rücktritt einzelner Vorstandsmitglieder besser zu kompensieren. Mit dieser Regelung soll erreicht werden, dass der Vorstand möglichst immer komplett besetzt ist.
+    
+Zusätzlich wurde "schnellstmöglich" in "unverzüglich" geändert, da dafür eine klare rechtliche Definition existiert.
+
+
+'''Änderung:'''
+{| class="wikitable" width="100%" cellspacing="0px" cellpadding="10px" border=1
+|- style="background: #DDFFDD;"
+! Original
+! Überarbeitung
+|- 
+|width="50%" valign="top" |
+'''§ 12 Der Stadtvorstand'''
+# Der Stadtvorstand besteht aus: 
+#* einem Vorsitzenden 
+#* einem stellvertretenden Vorsitzenden 
+#* einem Schatzmeister 
+#* einem bis fünf Beisitzern 
+# Der Stadtvorstand ist mit drei Mitgliedern voll Handlungs- und Beschlussfähig. 
+# Der Stadtvorstand vertritt den Stadtverband nach innen und außen. Er führt deren Geschäfte auf der Grundlage der von den Mitgliedern bestimmten Zielen und Strategien. 
+# Der Stadtvorstand regelt die Geschäftsführung unter sich. Er kann weitere Mitglieder für besondere Aufgaben heranziehen. In Fällen, die eine persönliche Anwesenheit erfordern oder erwarten lassen, kann der Stadtvorstand die Wahrnehmung der gerichtlichen oder außergerichtlichen Vertretung, die Geschäftsführung, die Antragstellungen in Wahlzulassungs- Verfahren, oder ähnliches an einen speziell zu diesem Zweck zu bevollmächtigende Piraten übertragen. 
+# Die Mitglieder des Stadtvorstandes werden von der Hauptversammlung in geheimer Wahl gewählt.
+#* Ist der Stadtvorstand bei der Tagung der Hauptversammlung länger als 11 Monate im Amt, muss er neu gewählt werden.
+#* Die Wahl sollte im ersten Quartal eines Jahres stattfinden. 
+# Der Vorstand legt zur Hauptversammlung einen Tätigkeitsbericht in Textform vor. Dieser umfasst alle Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in Eigenverantwortung des Einzelnen erstellt werden. 
+# Die Führung der Stadtgeschäftsstelle wird durch den Stadtvorstand beauftragt und beaufsichtigt. 
+# Tritt der gesamte Stadtvorstand geschlossen zurück oder kann seinen Aufgaben nicht mehr nachkommen, so führt der Landesvorstand kommissarisch die Geschäfte bis eine von ihm einberufene außerordentliche Hauptversammlung <span style="color:red">schnellstmöglich</span> stattgefunden und einen neuen Stadtvorstand gewählt hat.
+|
+'''§ 12 Der Stadtvorstand'''
+# Der Stadtvorstand besteht aus: 
+#* einem Vorsitzenden 
+#* einem stellvertretenden Vorsitzenden 
+#* einem Schatzmeister 
+#* einem bis fünf Beisitzern 
+# Der Stadtvorstand ist mit drei Mitgliedern voll Handlungs- und Beschlussfähig. 
+# Der Stadtvorstand vertritt den Stadtverband nach innen und außen. Er führt deren Geschäfte auf der Grundlage der von den Mitgliedern bestimmten Zielen und Strategien. 
+# Der Stadtvorstand regelt die Geschäftsführung unter sich. Er kann weitere Mitglieder für besondere Aufgaben heranziehen. In Fällen, die eine persönliche Anwesenheit erfordern oder erwarten lassen, kann der Stadtvorstand die Wahrnehmung der gerichtlichen oder außergerichtlichen Vertretung, die Geschäftsführung, die Antragstellungen in Wahlzulassungs- Verfahren, oder ähnliches an einen speziell zu diesem Zweck zu bevollmächtigende Piraten übertragen. 
+# Die Mitglieder des Stadtvorstandes werden von der Hauptversammlung in geheimer Wahl gewählt.
+#* Ist der Stadtvorstand bei der Tagung der Hauptversammlung länger als 11 Monate im Amt, muss er neu gewählt werden.
+#* Die Wahl sollte im ersten Quartal eines Jahres stattfinden. 
+# Der Vorstand legt zur Hauptversammlung einen Tätigkeitsbericht in Textform vor. Dieser umfasst alle Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in Eigenverantwortung des Einzelnen erstellt werden. 
+# Die Führung der Stadtgeschäftsstelle wird durch den Stadtvorstand beauftragt und beaufsichtigt. 
+# Tritt der gesamte Stadtvorstand geschlossen zurück oder kann seinen Aufgaben nicht mehr nachkommen, so führt der Landesvorstand kommissarisch die Geschäfte bis eine von ihm <span style="color:green">unverzüglich</span> einberufene außerordentliche Hauptversammlung stattgefunden und einen neuen Stadtvorstand gewählt hat.
+# <span style="color:green">Treten mindestens 30% der gewählten Vorstandsmitglieder zurück, muss der verbleibende Vorstand schnellstmöglich eine reguläre Hauptversammlung einberufen, damit ein neuer Vorstand gewählt werden kann.
+</span>
+|}
+
+=== SÄA 17.3 ===
+
+'''Begründung:'''
+
+Zeichnungsbefugnis des Schatzmeisters ausgeweitet, um ein problemloses Onlinebanking zu gewährleisten. Da der Schatzmeister von der Hauptversammlung entlastet werden muss, ist die vorherige doppelte Absicherung nicht zwingend nötig.
+
+'''Änderung:'''
+{| class="wikitable" width="100%" cellspacing="0px" cellpadding="10px" border=1
+|- style="background: #DDFFDD;"
+! Original
+! Überarbeitung
+|- 
+|width="50%" valign="top" |
+'''§ 17 Finanzordnung'''
+# Das Geschäftsjahr ist das Kalenderjahr. Kassenführung, Buchführung und Mitgliederdatei erfolgt möglichst papierlos nach den Regeln der ordentlichen Buchführung (die Dateien und Datenbanken sind allen Vorständen zur Kontrolle zugänglich zumachen). 
+# <span style="color:red">Der Schatzmeister und ein weiteres Vorstandsmitglied sind nur zusammen zeichnungsberechtigt.</span>
+# Weiteres regelt die Satzung der Piratenpartei Deutschland. 
+# Auf jeder Hauptversammlung werden ein Kassenprüfer und ein Stellvertreter gewählt. Diese amtieren bis zur Neuwahl auf der nächsten Hauptversammlung.
+|
+'''§ 17 Finanzordnung'''
+# Das Geschäftsjahr ist das Kalenderjahr. Kassenführung, Buchführung und Mitgliederdatei erfolgt möglichst papierlos nach den Regeln der ordentlichen Buchführung (die Dateien und Datenbanken sind allen Vorständen zur Kontrolle zugänglich zumachen). 
+# <span style="color:green">Der Schatzmeister ist alleine zeichnungsberechtigt.</span>
+# Weiteres regelt die Satzung der Piratenpartei Deutschland. 
+# Auf jeder Hauptversammlung werden ein Kassenprüfer und ein Stellvertreter gewählt. Diese amtieren bis zur Neuwahl auf der nächsten Hauptversammlung.
+|}
+
+
 [[Kategorie:Satzung]]
 [[Kategorie:Osnabrück|Satzung]]
