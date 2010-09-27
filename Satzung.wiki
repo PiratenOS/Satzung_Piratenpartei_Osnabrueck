@@ -206,7 +206,7 @@ Zusätzlich wurde "schnellstmöglich" in "unverzüglich" geändert, da dafür ei
 # Der Vorstand legt zur Hauptversammlung einen Tätigkeitsbericht in Textform vor. Dieser umfasst alle Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in Eigenverantwortung des Einzelnen erstellt werden. 
 # Die Führung der Stadtgeschäftsstelle wird durch den Stadtvorstand beauftragt und beaufsichtigt. 
 # Tritt der gesamte Stadtvorstand geschlossen zurück oder kann seinen Aufgaben nicht mehr nachkommen, so führt der Landesvorstand kommissarisch die Geschäfte bis eine von ihm <span style="color:green">unverzüglich</span> einberufene außerordentliche Hauptversammlung stattgefunden und einen neuen Stadtvorstand gewählt hat.
-# <span style="color:green">Treten mindestens 30% der gewählten Vorstandsmitglieder zurück, muss der verbleibende Vorstand schnellstmöglich eine reguläre Hauptversammlung einberufen, damit ein neuer Vorstand gewählt werden kann.
+# <span style="color:green">Treten mindestens 30% der gewählten Vorstandsmitglieder zurück, muss der verbleibende Vorstand unverzüglich eine reguläre Hauptversammlung einberufen, damit ein neuer Vorstand gewählt werden kann.
 </span>
 |}
 
