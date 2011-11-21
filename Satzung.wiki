@@ -109,7 +109,6 @@ Sie vereinigt Piraten ohne Unterschied
 # Die Einladung hat zwei Wochen für reguläre bzw. eine Woche für außerordentliche Parteitage schriftlich (Fax oder e-Mail genügt) zu erfolgen. Sie hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. 
 # Der Kreisparteitag nimmt den Tätigkeitsbericht des Vorstands entgegen und entscheidet daraufhin mit einfacher Mehrheit der anwesenden Parteimitglieder über seine Entlastung. 
 # Über den Kreisparteitag wird ein Ergebnisprotokoll angefertigt. 
-# Der Kreisparteitag wählt zwei Rechnungsprüfer. Das Ergebnis der Prüfung wird auf der Hauptversammlung verkündet und zu Protokoll genommen. Danach sind die Rechnungsprüfer aus ihrer Funktion entlassen. 
 
 == § 13 Der Kreisvorstand ==
 # Der Kreisvorstand besteht aus: 
@@ -147,7 +146,7 @@ Sie vereinigt Piraten ohne Unterschied
 == § 18 Finanzordnung ==
 # Das Geschäftsjahr ist das Kalenderjahr. Kassenführung, Buchführung und Mitgliederdatei erfolgt möglichst papierlos nach den Regeln der ordentlichen Buchführung (die Dateien und Datenbanken sind allen Vorständen zur Kontrolle zugänglich zumachen). 
 # Der Schatzmeister ist alleine zeichnungsberechtigt.
-# Auf jedem Kreisparteitag mit Vorstandswahlen werden ein Kassenprüfer und ein Stellvertreter gewählt. Diese amtieren bis zur Neuwahl auf dem nächsten Kreisparteitag mit Vorstandswahlen.
+# Auf jedem Kreisparteitag mit Vorstandswahlen werden zwei Kassenprüfer und zwei Stellvertreter gewählt. Diese amtieren bis zur Neuwahl auf dem nächsten Kreisparteitag mit Vorstandswahlen.
 # Weiteres regelt die Satzung der Piratenpartei Deutschland. 
 
 == § 19 Schiedsgerichtsordnung ==
