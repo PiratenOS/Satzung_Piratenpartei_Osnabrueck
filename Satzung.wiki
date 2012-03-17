@@ -225,5 +225,48 @@ Rechnungsprüfer entfernt und Kassenprüfer auf zwei erhöht, um mit der Bundess
 
 |}
 
+=== SÄA 3 ===
+'''Begründung:'''
+
+Wahlberechtigte Piraten sollten nicht mit einfacher Mehrheit ausgeschlossen werden. Nicht wahlberechtigte Piraten zählen zu den Gästen.
+
+'''Änderungen:'''
+{| class="wikitable" width="100%" cellspacing="0px" cellpadding="10px" border=1
+|- style="background: #DDFFDD;"
+! width="50%" | Original
+! width="50%" | Überarbeitung
+|- valign="top" 
+| '''§ 8 Transparenz'''
+# Interna können per mehrheitlichen Beschluss als Verschlusssache deklariert werden. Zu jeder Verschlusssache wird ein Ablaufdatum beschlossen. 
+## Verschlusssachen können Protokolle oder Teile von Protokollen sein welche besonderen Schutz bedürfen. Über Verschlusssachen ist Verschwiegenheit zu wahren. 
+## Verschlusssachen können per einfacher Mehrheit der betreffenden Stelle oder höheren Instanzen von diesem Status befreit werden. 
+## Verschlusssachen verlieren diesen Status, wenn sie nicht innerhalb von 3 Monaten nach dem Ablaufdatum erneut als Verschlusssache bestätigt werden. Daten, die auf Grundlage des Datenschutzes oder gesetzlicher Regelungen nicht veröffentlicht werden können, bedürfen weder Status als Verschlusssache, Ablaufdatum noch einer regelmäßigen Überprüfung. 
+# Grundsätzlich hat jeder Pirat das Recht auf Akteneinsicht in die Unterlagen des Kreisverbandes. Dieses Recht kann durch Abs. 1 eingeschränkt werden. 
+# Jede vertragliche Bindung und jeder Vertrag des Kreisverbandes mit Unternehmen und Kaufleuten ist den Mitgliedern offen zu legen. Dieses Recht kann durch Abs. 1 eingeschränkt werden. 
+# Alle Sitzungen der Gremien und Organe werden angekündigt. Protokolle und Ergebnisse werden, so weit zulässig, zeitnah veröffentlicht. 
+# Bei allen Sitzungen der Gremien und Organe sind Gäste zulassen.
+## Ein Ausschluss von <span style="color:red">Piraten oder</span> Gästen kann mit einfacher Mehrheit beschlossen werden.
+## Ein Ausschluss von <span style="color:red">Piraten oder</span> Gästen muss schriftlich begründet werden.
+## Gäste haben kein Stimmrecht. 
+## Gäste haben ein Antrags- und Rederecht.
+## Das Antrags- bzw. Rederecht kann allen oder einzelnen Gästen durch einfache Mehrheit entzogen werden. 
+# Inhaber eines bezahlten Amtes innerhalb des Kreisverbandes müssen ihre Nebentätigkeiten und daraus resultierenden Einkünfte offen legen. 
+| '''§ 8 Transparenz'''
+# Interna können per mehrheitlichen Beschluss als Verschlusssache deklariert werden. Zu jeder Verschlusssache wird ein Ablaufdatum beschlossen. 
+## Verschlusssachen können Protokolle oder Teile von Protokollen sein welche besonderen Schutz bedürfen. Über Verschlusssachen ist Verschwiegenheit zu wahren. 
+## Verschlusssachen können per einfacher Mehrheit der betreffenden Stelle oder höheren Instanzen von diesem Status befreit werden. 
+## Verschlusssachen verlieren diesen Status, wenn sie nicht innerhalb von 3 Monaten nach dem Ablaufdatum erneut als Verschlusssache bestätigt werden. Daten, die auf Grundlage des Datenschutzes oder gesetzlicher Regelungen nicht veröffentlicht werden können, bedürfen weder Status als Verschlusssache, Ablaufdatum noch einer regelmäßigen Überprüfung. 
+# Grundsätzlich hat jeder Pirat das Recht auf Akteneinsicht in die Unterlagen des Kreisverbandes. Dieses Recht kann durch Abs. 1 eingeschränkt werden. 
+# Jede vertragliche Bindung und jeder Vertrag des Kreisverbandes mit Unternehmen und Kaufleuten ist den Mitgliedern offen zu legen. Dieses Recht kann durch Abs. 1 eingeschränkt werden. 
+# Alle Sitzungen der Gremien und Organe werden angekündigt. Protokolle und Ergebnisse werden, so weit zulässig, zeitnah veröffentlicht. 
+# Bei allen Sitzungen der Gremien und Organe sind Gäste zulassen.
+## Ein Ausschluss von Gästen kann mit einfacher Mehrheit beschlossen werden.
+## Ein Ausschluss von Gästen muss schriftlich begründet werden.
+## Gäste haben kein Stimmrecht. 
+## Gäste haben ein Antrags- und Rederecht.
+## Das Antrags- bzw. Rederecht kann allen oder einzelnen Gästen durch einfache Mehrheit entzogen werden. 
+# Inhaber eines bezahlten Amtes innerhalb des Kreisverbandes müssen ihre Nebentätigkeiten und daraus resultierenden Einkünfte offen legen. 
+|}
+
 [[Kategorie:Satzung]]
 [[Kategorie:Osnabrück|Satzung]]
