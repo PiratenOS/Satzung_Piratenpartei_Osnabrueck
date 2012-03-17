@@ -172,6 +172,58 @@ Sie vereinigt Piraten ohne Unterschied
 # Die Gründungsversammlung tagt nur einmal, und zwar am 14.04.2011. Auf der Gründungsversammlung wird der erste Kreisvorstand gemäß dieser Satzung gewählt. 
 # Diese Satzung tritt mit Verabschiedung durch die 1. Mitgliederversammlung in Kraft. 
 
+=Anhang=
+==Änderungen des Kreisparteitags 17.03.2012 + 18.03.2012==
+=== SÄA 1 ===
+'''Begründung:'''
+
+Rechnungsprüfer entfernt und Kassenprüfer auf zwei erhöht, um mit der Bundessatzung und dem PartG zu genügen
+
+'''Änderungen:'''
+{| class="wikitable" width="100%" cellspacing="0px" cellpadding="10px" border=1
+|- style="background: #DDFFDD;"
+! width="50%" | Original
+! width="50%" | Überarbeitung
+|- valign="top" 
+| '''§ 12 Der Kreisparteitag'''
+# Der Kreisparteitag ist das oberste Organ des Kreisverbandes. Er beschließt die Richtlinien und Ausrichtung der Arbeit des Kreisverbandes welche der Kreisvorstand umzusetzen hat. Er ist die Mitgliederversammlung auf Kreisebene. 
+# Der Kreisparteitag tagt mindestens einmal jährlich. Hierbei zählen sowohl reguläre als auch außerordentliche Parteitage. 
+# Die Einberufung wird durch den Kreisvorstand veranlasst. Dies geschieht aufgrund eines Vorstandsbeschlusses oder wenn mindestens ein Viertel der Piraten sie beantragt. 
+#* Dieser Antrag kann Punkte für die vorläufige Tagesordnung beinhalten, welche bei der Einladung berücksichtigt werden müssen.
+#* Der Kreisparteitag findet innerhalb von zwei Monaten nach dem Antrag statt.
+# Die Einladung hat zwei Wochen für reguläre bzw. eine Woche für außerordentliche Parteitage schriftlich (Fax oder e-Mail genügt) zu erfolgen. Sie hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. 
+# Der Kreisparteitag nimmt den Tätigkeitsbericht des Vorstands entgegen und entscheidet daraufhin mit einfacher Mehrheit der anwesenden Parteimitglieder über seine Entlastung. 
+# Über den Kreisparteitag wird ein Ergebnisprotokoll angefertigt.
+# <span style="color:red">Der Kreisparteitag wählt zwei Rechnungsprüfer. Das Ergebnis der Prüfung wird auf der Hauptversammlung verkündet und zu Protokoll genommen. Danach sind die Rechnungsprüfer aus ihrer Funktion entlassen.</span>
+| '''§ 12 Der Kreisparteitag'''
+# Der Kreisparteitag ist das oberste Organ des Kreisverbandes. Er beschließt die Richtlinien und Ausrichtung der Arbeit des Kreisverbandes welche der Kreisvorstand umzusetzen hat. Er ist die Mitgliederversammlung auf Kreisebene.
+# Der Kreisparteitag tagt mindestens einmal jährlich. Hierbei zählen sowohl reguläre als auch außerordentliche Parteitage.
+# Die Einberufung wird durch den Kreisvorstand veranlasst. Dies geschieht aufgrund eines Vorstandsbeschlusses oder wenn mindestens ein Viertel der Piraten sie beantragt.
+#* Dieser Antrag kann Punkte für die vorläufige Tagesordnung beinhalten, welche bei der Einladung berücksichtigt werden müssen.
+#* Der Kreisparteitag findet innerhalb von zwei Monaten nach dem Antrag statt.
+# Die Einladung hat zwei Wochen für reguläre bzw. eine Woche für außerordentliche Parteitage schriftlich (Fax oder e-Mail genügt) zu erfolgen. Sie hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten.
+# Der Kreisparteitag nimmt den Tätigkeitsbericht des Vorstands entgegen und entscheidet daraufhin mit einfacher Mehrheit der anwesenden Parteimitglieder über seine Entlastung.
+# Über den Kreisparteitag wird ein Ergebnisprotokoll angefertigt.
+|}
+
+
+{| class="wikitable" width="100%" cellspacing="0px" cellpadding="10px" border=1
+|- style="background: #DDFFDD;"
+! width="50%" | Original
+! width="50%" | Überarbeitung
+|- valign="top" 
+| '''§ 18 Finanzordnung'''
+# Das Geschäftsjahr ist das Kalenderjahr. Kassenführung, Buchführung und Mitgliederdatei erfolgt möglichst papierlos nach den Regeln der ordentlichen Buchführung (die Dateien und Datenbanken sind allen Vorständen zur Kontrolle zugänglich zumachen). 
+# Der Schatzmeister ist alleine zeichnungsberechtigt.
+# Auf jedem Kreisparteitag mit Vorstandswahlen werden <span style="color:red">ein</span> Kassenprüfer und <span style="color:red">ein</span> Stellvertreter gewählt. Diese amtieren bis zur Neuwahl auf dem nächsten Kreisparteitag mit Vorstandswahlen.
+# Weiteres regelt die Satzung der Piratenpartei Deutschland. 
+| '''§ 18 Finanzordnung'''
+# Das Geschäftsjahr ist das Kalenderjahr. Kassenführung, Buchführung und Mitgliederdatei erfolgt möglichst papierlos nach den Regeln der ordentlichen Buchführung (die Dateien und Datenbanken sind allen Vorständen zur Kontrolle zugänglich zumachen). 
+# Der Schatzmeister ist alleine zeichnungsberechtigt.
+# Auf jedem Kreisparteitag mit Vorstandswahlen werden <span style="color:green">zwei</span> Kassenprüfer und <span style="color:green">zwei</span> Stellvertreter gewählt. Diese amtieren bis zur Neuwahl auf dem nächsten Kreisparteitag mit Vorstandswahlen.
+# Weiteres regelt die Satzung der Piratenpartei Deutschland. 
+
+|}
 
 [[Kategorie:Satzung]]
 [[Kategorie:Osnabrück|Satzung]]
