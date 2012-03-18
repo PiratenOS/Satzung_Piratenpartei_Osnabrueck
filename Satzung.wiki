@@ -74,7 +74,6 @@ Sie vereinigt Piraten ohne Unterschied
 # Alle Sitzungen der Gremien und Organe werden angekündigt. Protokolle und Ergebnisse werden, so weit zulässig, zeitnah veröffentlicht. 
 # Bei allen Sitzungen der Gremien und Organe sind Gäste zulassen.
 ## Ein Ausschluss von Gästen kann mit einfacher Mehrheit beschlossen werden.
-## Ein Ausschluss von Gästen muss schriftlich begründet werden.
 ## Gäste haben kein Stimmrecht. 
 ## Gäste haben ein Antrags- und Rederecht.
 ## Das Antrags- bzw. Rederecht kann allen oder einzelnen Gästen durch einfache Mehrheit entzogen werden. 
@@ -246,7 +245,7 @@ Wahlberechtigte Piraten sollten nicht mit einfacher Mehrheit ausgeschlossen werd
 # Alle Sitzungen der Gremien und Organe werden angekündigt. Protokolle und Ergebnisse werden, so weit zulässig, zeitnah veröffentlicht. 
 # Bei allen Sitzungen der Gremien und Organe sind Gäste zulassen.
 ## Ein Ausschluss von <span style="color:red">Piraten oder</span> Gästen kann mit einfacher Mehrheit beschlossen werden.
-## Ein Ausschluss von <span style="color:red">Piraten oder</span> Gästen muss schriftlich begründet werden.
+## <span style="color:red">Ein Ausschluss von Piraten oder Gästen muss schriftlich begründet werden.</span>
 ## Gäste haben kein Stimmrecht. 
 ## Gäste haben ein Antrags- und Rederecht.
 ## Das Antrags- bzw. Rederecht kann allen oder einzelnen Gästen durch einfache Mehrheit entzogen werden. 
@@ -261,7 +260,6 @@ Wahlberechtigte Piraten sollten nicht mit einfacher Mehrheit ausgeschlossen werd
 # Alle Sitzungen der Gremien und Organe werden angekündigt. Protokolle und Ergebnisse werden, so weit zulässig, zeitnah veröffentlicht. 
 # Bei allen Sitzungen der Gremien und Organe sind Gäste zulassen.
 ## Ein Ausschluss von Gästen kann mit einfacher Mehrheit beschlossen werden.
-## Ein Ausschluss von Gästen muss schriftlich begründet werden.
 ## Gäste haben kein Stimmrecht. 
 ## Gäste haben ein Antrags- und Rederecht.
 ## Das Antrags- bzw. Rederecht kann allen oder einzelnen Gästen durch einfache Mehrheit entzogen werden. 
