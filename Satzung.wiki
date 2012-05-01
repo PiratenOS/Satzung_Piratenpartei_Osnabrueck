@@ -119,7 +119,7 @@ Sie vereinigt Piraten ohne Unterschied
 #* einem bis drei Beisitzern 
 # Der Kreisvorstand ist mit drei Mitgliedern voll Handlungs- und Beschlussfähig. 
 # Der Kreisvorstand vertritt den Kreisverband nach innen und außen. Er führt deren Geschäfte auf der Grundlage der von den Mitgliedern bestimmten Zielen und Strategien. 
-# Der Kreisvorstand gibt sich eine Geschäftsordnung in der die Aufgaben der einzelnen Vorstandsämter definiert sind. Er kann weitere Mitglieder für besondere Aufgaben heranziehen. In Fällen, die eine persönliche Anwesenheit erfordern oder erwarten lassen, kann der Kreisvorstand die Wahrnehmung der gerichtlichen oder außergerichtlichen Vertretung, die Geschäftsführung, die Antragstellungen in Wahlzulassungs- Verfahren, oder ähnliches an einen speziell zu diesem Zweck zu bevollmächtigende Piraten übertragen. 
+# Der Kreisvorstand gibt sich eine Geschäftsordnung in der die Aufgaben der einzelnen Vorstandsämter und Stellvertreterregelungen definiert sind. Er kann weitere Mitglieder für besondere Aufgaben heranziehen. In Fällen, die eine persönliche Anwesenheit erfordern oder erwarten lassen, kann der Kreisvorstand die Wahrnehmung der gerichtlichen oder außergerichtlichen Vertretung, die Geschäftsführung, die Antragstellungen in Wahlzulassungs- Verfahren, oder ähnliches an einen speziell zu diesem Zweck zu bevollmächtigende Piraten übertragen. 
 # Die Mitglieder des Kreisvorstand werden von dem Kreisparteitag in geheimer Wahl gewählt.
 #* Ist der Kreisvorstand bei der Tagung des Kreisparteitags länger als 11 Monate im Amt, muss er neu gewählt werden.
 #* Die Wahl sollte im ersten Quartal eines Jahres stattfinden. 
