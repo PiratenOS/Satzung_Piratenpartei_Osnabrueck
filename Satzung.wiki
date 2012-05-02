@@ -33,7 +33,8 @@ Sie vereinigt Piraten ohne Unterschied
 == § 3 Erwerb der Mitgliedschaft ==
 # Mitglied des Kreisverbandes kann jeder Pirat der Piratenpartei Deutschland werden, der die Grundsätze sowie die Satzung des Kreisverbandes anerkennt.
 # Der Kreisverband führt ein Piratenverzeichnis auf Kreisebene, und unterliegt den zum Schutze der Mitglieder dienenden datenschutzrechtlichen Bestimmungen.
-# Die Aufnahme regelt die Satzung des Landesverbands Niedersachsen sowie die Satzung der Piratenpartei Deutschland.
+# Die Aufnahme eines Mitglieds erfolgt automatisch 14 Tage nach Eingang des Mitgliedsantrages beim Vorstand des Kreisverbands sofern dieser nicht widerspricht.
+# Ein Widerspruch zur Aufnahme muss dem Bewerber schriftlich mitgeteilt und begründet werden. Dies hat innerhalb von 14 Tagen nach Eingang des Mitgliedsantrags zu geschehen.
 # Bei einem Wohnsitzwechsel in das Gebiet einer anderen Gliederung geht die Mitgliedschaft über. Der Pirat hat den Wohnsitzwechsel unverzüglich der dem neuen Wohnsitz entsprechenden niedrigsten Gliederung anzuzeigen.
 
 == § 4 Rechte und Pflichten der Piraten ==
