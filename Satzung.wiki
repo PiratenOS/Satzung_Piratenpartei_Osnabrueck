@@ -114,10 +114,17 @@ Sie vereinigt Piraten ohne Unterschied
 #* einem Vorsitzenden 
 #* einem stellvertretenden Vorsitzenden 
 #* einem Schatzmeister 
-#* einem bis fünf Beisitzern 
+#* einem Generalsekretär
+#* einem politischen Geschäftsführer
+#* einem bis drei Beisitzern
 # Der Kreisvorstand ist mit drei Mitgliedern voll Handlungs- und Beschlussfähig. 
 # Der Kreisvorstand vertritt den Kreisverband nach innen und außen. Er führt deren Geschäfte auf der Grundlage der von den Mitgliedern bestimmten Zielen und Strategien. 
-# Der Kreisvorstand regelt die Geschäftsführung unter sich. Er kann weitere Mitglieder für besondere Aufgaben heranziehen. In Fällen, die eine persönliche Anwesenheit erfordern oder erwarten lassen, kann der Kreisvorstand die Wahrnehmung der gerichtlichen oder außergerichtlichen Vertretung, die Geschäftsführung, die Antragstellungen in Wahlzulassungs- Verfahren, oder ähnliches an einen speziell zu diesem Zweck zu bevollmächtigende Piraten übertragen. 
+# Der Kreisvorstand gibt sich eine Geschäftsordnung und veröffentlicht diese angemessen. Sie umfasst u.a. Regelungen zu:
+#* Verwaltung der Mitgliederdaten und deren Zugriff und Sicherung
+#* Aufgaben und Kompetenzen der Vorstandsmitglieder
+#* Dokumentation aller Vorstandssitzungen
+#* Form und Umfang des Tätigkeitsberichts
+#* Beurkundung von Beschlüssen des Vorstandes
 # Die Mitglieder des Kreisvorstand werden von dem Kreisparteitag in geheimer Wahl gewählt.
 #* Ist der Kreisvorstand bei der Tagung des Kreisparteitags länger als 11 Monate im Amt, muss er neu gewählt werden.
 #* Die Wahl sollte im ersten Quartal eines Jahres stattfinden. 
@@ -297,7 +304,7 @@ Da wir viele nicht Mitglieder haben, die nicht Stimmberechtigt sind, ist ein vie
 # Über den Kreisparteitag wird ein Ergebnisprotokoll angefertigt. 
 |}
 
-=== SÄA 2 ===
+=== SÄA 3 ===
 '''Begründung:'''
 
 Da die Mitglieder Aufnahme durch den KV geregelt werden sollte, wurde diese genauer spezifiziert.
@@ -318,6 +325,58 @@ Da die Mitglieder Aufnahme durch den KV geregelt werden sollte, wurde diese gena
 # Der Kreisverband führt ein Piratenverzeichnis auf Kreisebene, und unterliegt den zum Schutze der Mitglieder dienenden datenschutzrechtlichen Bestimmungen.
 # <span style="color:green">Der Vorstand entscheidet innerhalb von 28 Tagen nach Eingang des Mitgliedsantrages beim Vorstand des Kreisverbands über die Aufnahme. Eine Ablehnung muss innerhalb von 28 Tagen vom KV versendet werden.</span>
 # Bei einem Wohnsitzwechsel in das Gebiet einer anderen Gliederung geht die Mitgliedschaft über. Der Pirat hat den Wohnsitzwechsel unverzüglich der dem neuen Wohnsitz entsprechenden niedrigsten Gliederung anzuzeigen.
+|}
+
+=== SÄA 2.1 ===
+'''Begründung:'''
+
+Änderung zur genaueren Aufgabenaufteilung im Vorstand.
+
+'''Änderungen:'''
+{| class="wikitable" width="100%" cellspacing="0px" cellpadding="10px" border=1
+|- style="background: #DDFFDD;"
+! width="50%" | Original
+! width="50%" | Überarbeitung
+|- valign="top" 
+| '''§ 13 Der Kreisvorstand'''
+# Der Kreisvorstand besteht aus: 
+#* einem Vorsitzenden 
+#* einem stellvertretenden Vorsitzenden 
+#* einem Schatzmeister 
+#* <span style="color:red">einem bis fünf Beisitzern</span>
+# Der Kreisvorstand ist mit drei Mitgliedern voll Handlungs- und Beschlussfähig. 
+# Der Kreisvorstand vertritt den Kreisverband nach innen und außen. Er führt deren Geschäfte auf der Grundlage der von den Mitgliedern bestimmten Zielen und Strategien. 
+# <span style="color:red">Der Kreisvorstand regelt die Geschäftsführung unter sich. Er kann weitere Mitglieder für besondere Aufgaben heranziehen. In Fällen, die eine persönliche Anwesenheit erfordern oder erwarten lassen, kann der Kreisvorstand die Wahrnehmung der gerichtlichen oder außergerichtlichen Vertretung, die Geschäftsführung, die Antragstellungen in Wahlzulassungs- Verfahren, oder ähnliches an einen speziell zu diesem Zweck zu bevollmächtigende Piraten übertragen.</span>
+# Die Mitglieder des Kreisvorstand werden von dem Kreisparteitag in geheimer Wahl gewählt.
+#* Ist der Kreisvorstand bei der Tagung des Kreisparteitags länger als 11 Monate im Amt, muss er neu gewählt werden.
+#* Die Wahl sollte im ersten Quartal eines Jahres stattfinden. 
+# Der Vorstand legt zum Kreisparteitag einen Tätigkeitsbericht in Textform vor. Dieser umfasst alle Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in Eigenverantwortung des Einzelnen erstellt werden. 
+# Die Führung der Kreisgeschäftsstelle wird durch den Kreisvorstand beauftragt und beaufsichtigt. 
+# Tritt der gesamte Kreisvorstand geschlossen zurück oder kann seinen Aufgaben nicht mehr nachkommen, so führt der Landesvorstand kommissarisch die Geschäfte bis ein von ihm unverzüglich einberufene außerordentliche Kreisparteitag stattgefunden und einen neuen Kreisvorstand gewählt hat.
+# Treten mindestens 30% der gewählten Vorstandsmitglieder zurück, muss der verbleibende Vorstand unverzüglich einen reguläre Kreisparteitag einberufen, damit ein neuer Vorstand gewählt werden kann.
+| '''§ 13 Der Kreisvorstand'''
+# Der Kreisvorstand besteht aus: 
+#* einem Vorsitzenden 
+#* einem stellvertretenden Vorsitzenden 
+#* einem Schatzmeister 
+#* <span style="color:green">einem Generalsekretär</span>
+#* <span style="color:green">einem politischen Geschäftsführer</span>
+#* <span style="color:green">einem bis drei Beisitzern</span>
+# Der Kreisvorstand ist mit drei Mitgliedern voll Handlungs- und Beschlussfähig. 
+# Der Kreisvorstand vertritt den Kreisverband nach innen und außen. Er führt deren Geschäfte auf der Grundlage der von den Mitgliedern bestimmten Zielen und Strategien. 
+# <span style="color:green">Der Kreisvorstand gibt sich eine Geschäftsordnung und veröffentlicht diese angemessen. Sie umfasst u.a. Regelungen zu:</span>
+#* <span style="color:green">Verwaltung der Mitgliederdaten und deren Zugriff und Sicherung</span>
+#* <span style="color:green">Aufgaben und Kompetenzen der Vorstandsmitglieder</span>
+#* <span style="color:green">Dokumentation aller Vorstandssitzungen</span>
+#* <span style="color:green">Form und Umfang des Tätigkeitsberichts</span>
+#* <span style="color:green">Beurkundung von Beschlüssen des Vorstandes</span>
+# Die Mitglieder des Kreisvorstand werden von dem Kreisparteitag in geheimer Wahl gewählt.
+#* Ist der Kreisvorstand bei der Tagung des Kreisparteitags länger als 11 Monate im Amt, muss er neu gewählt werden.
+#* Die Wahl sollte im ersten Quartal eines Jahres stattfinden. 
+# Der Vorstand legt zum Kreisparteitag einen Tätigkeitsbericht in Textform vor. Dieser umfasst alle Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in Eigenverantwortung des Einzelnen erstellt werden. 
+# Die Führung der Kreisgeschäftsstelle wird durch den Kreisvorstand beauftragt und beaufsichtigt. 
+# Tritt der gesamte Kreisvorstand geschlossen zurück oder kann seinen Aufgaben nicht mehr nachkommen, so führt der Landesvorstand kommissarisch die Geschäfte bis ein von ihm unverzüglich einberufene außerordentliche Kreisparteitag stattgefunden und einen neuen Kreisvorstand gewählt hat.
+# Treten mindestens 30% der gewählten Vorstandsmitglieder zurück, muss der verbleibende Vorstand unverzüglich einen reguläre Kreisparteitag einberufen, damit ein neuer Vorstand gewählt werden kann.
 |}
 
 [[Kategorie:Satzung]]
