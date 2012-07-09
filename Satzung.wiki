@@ -102,7 +102,7 @@ Sie vereinigt Piraten ohne Unterschied
 == § 12 Der Kreisparteitag ==
 # Der Kreisparteitag ist das oberste Organ des Kreisverbandes. Er beschließt die Richtlinien und Ausrichtung der Arbeit des Kreisverbandes welche der Kreisvorstand umzusetzen hat. Er ist die Mitgliederversammlung auf Kreisebene. 
 # Der Kreisparteitag tagt mindestens einmal jährlich. Hierbei zählen sowohl reguläre als auch außerordentliche Parteitage. 
-# Die Einberufung wird durch den Kreisvorstand veranlasst. Dies geschieht aufgrund eines Vorstandsbeschlusses oder wenn mindestens ein Viertel der Piraten sie beantragt. 
+# Die Einberufung wird durch den Kreisvorstand veranlasst. Dies geschieht aufgrund eines Vorstandsbeschlusses oder wenn mindestens ein Viertel der stimmberechtigten Piraten sie beantragt.
 #* Dieser Antrag kann Punkte für die vorläufige Tagesordnung beinhalten, welche bei der Einladung berücksichtigt werden müssen.
 #* Der Kreisparteitag findet innerhalb von zwei Monaten nach dem Antrag statt.
 # Die Einladung hat zwei Wochen für reguläre bzw. eine Woche für außerordentliche Parteitage schriftlich (Fax oder e-Mail genügt) zu erfolgen. Sie hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. 
@@ -263,6 +263,38 @@ Wahlberechtigte Piraten sollten nicht mit einfacher Mehrheit ausgeschlossen werd
 ## Gäste haben ein Antrags- und Rederecht.
 ## Das Antrags- bzw. Rederecht kann allen oder einzelnen Gästen durch einfache Mehrheit entzogen werden. 
 # Inhaber eines bezahlten Amtes innerhalb des Kreisverbandes müssen ihre Nebentätigkeiten und daraus resultierenden Einkünfte offen legen. 
+|}
+
+==Änderungen des Kreisparteitags 07.07.2012 + 08.07.2012==
+=== SÄA 1 ===
+'''Begründung:'''
+
+Da wir viele nicht Mitglieder haben, die nicht Stimmberechtigt sind, ist ein viertel aller Mitglieder schwer zu erreichen.
+
+'''Änderungen:'''
+{| class="wikitable" width="100%" cellspacing="0px" cellpadding="10px" border=1
+|- style="background: #DDFFDD;"
+! width="50%" | Original
+! width="50%" | Überarbeitung
+|- valign="top" 
+| '''§ 12 Der Kreisparteitag'''
+# Der Kreisparteitag ist das oberste Organ des Kreisverbandes. Er beschließt die Richtlinien und Ausrichtung der Arbeit des Kreisverbandes welche der Kreisvorstand umzusetzen hat. Er ist die Mitgliederversammlung auf Kreisebene. 
+# Der Kreisparteitag tagt mindestens einmal jährlich. Hierbei zählen sowohl reguläre als auch außerordentliche Parteitage. 
+# Die Einberufung wird durch den Kreisvorstand veranlasst. Dies geschieht aufgrund eines Vorstandsbeschlusses oder wenn mindestens ein Viertel der Piraten sie beantragt. 
+#* Dieser Antrag kann Punkte für die vorläufige Tagesordnung beinhalten, welche bei der Einladung berücksichtigt werden müssen.
+#* Der Kreisparteitag findet innerhalb von zwei Monaten nach dem Antrag statt.
+# Die Einladung hat zwei Wochen für reguläre bzw. eine Woche für außerordentliche Parteitage schriftlich (Fax oder e-Mail genügt) zu erfolgen. Sie hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. 
+# Der Kreisparteitag nimmt den Tätigkeitsbericht des Vorstands entgegen und entscheidet daraufhin mit einfacher Mehrheit der anwesenden Parteimitglieder über seine Entlastung. 
+# Über den Kreisparteitag wird ein Ergebnisprotokoll angefertigt. 
+| '''§ 12 Der Kreisparteitag'''
+# Der Kreisparteitag ist das oberste Organ des Kreisverbandes. Er beschließt die Richtlinien und Ausrichtung der Arbeit des Kreisverbandes welche der Kreisvorstand umzusetzen hat. Er ist die Mitgliederversammlung auf Kreisebene. 
+# Der Kreisparteitag tagt mindestens einmal jährlich. Hierbei zählen sowohl reguläre als auch außerordentliche Parteitage. 
+# Die Einberufung wird durch den Kreisvorstand veranlasst. Dies geschieht aufgrund eines Vorstandsbeschlusses oder wenn mindestens ein Viertel der <span style="color:green">stimmberechtigten</span> Piraten sie beantragt.
+#* Dieser Antrag kann Punkte für die vorläufige Tagesordnung beinhalten, welche bei der Einladung berücksichtigt werden müssen.
+#* Der Kreisparteitag findet innerhalb von zwei Monaten nach dem Antrag statt.
+# Die Einladung hat zwei Wochen für reguläre bzw. eine Woche für außerordentliche Parteitage schriftlich (Fax oder e-Mail genügt) zu erfolgen. Sie hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. 
+# Der Kreisparteitag nimmt den Tätigkeitsbericht des Vorstands entgegen und entscheidet daraufhin mit einfacher Mehrheit der anwesenden Parteimitglieder über seine Entlastung. 
+# Über den Kreisparteitag wird ein Ergebnisprotokoll angefertigt. 
 |}
 
 [[Kategorie:Satzung]]
